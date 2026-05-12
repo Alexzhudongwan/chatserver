@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/ChatClient.dir/link.d CMakeFiles/ChatClient.dir/main.cpp.o -o /home/linxiao/chat-cabin/chatserver-main/bin/ChatClient  -lpthread
